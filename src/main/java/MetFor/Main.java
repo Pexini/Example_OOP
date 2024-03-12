@@ -1,4 +1,4 @@
-package org.example;
+package MetFor;
 
 import java.util.Scanner;
 
