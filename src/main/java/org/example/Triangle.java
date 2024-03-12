@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Triangle implements Figure{
     @Override
     public int getType(){
-        return 3;
+        return 2;
     }
     @Override
     public void getSquare(Scanner input){
