@@ -2,7 +2,7 @@ package ifElse;
 
 import java.util.Scanner;
 
-public class Rectangle implements Figure{
+public class Rectangle implements Figure {
     @Override
     public int getType() {
         return 0;

@@ -14,10 +14,10 @@ public class Main {
             if (typeOfFigure == figures[i].getType()) {
                 figures[i].getSquare(input);
             }
-            }
         }
-
-
     }
+
+
+}
 
 
