@@ -14,5 +14,6 @@ public class Triangle implements Figure {
         double a = input.nextDouble();
         double b = input.nextDouble();
         System.out.println("Площадь треугольника " + a * b / 2);
+
     }
 }
