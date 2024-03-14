@@ -10,7 +10,7 @@ public class Main {
         Figure[] figures = new Figure[]{new Rectangle(), new Circle(), new Triangle()};
 
         int typeOfFigure = input.nextInt();
-        for (int i = 0; i < typeOfFigure; i++) {
+        for (int i = 0; i <= typeOfFigure; i++) {
             if (typeOfFigure == figures[i].getType()) {
                 figures[i].getSquare(input);
             }
